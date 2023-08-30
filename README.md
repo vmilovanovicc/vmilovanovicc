@@ -8,6 +8,10 @@
 
 ⚡ Digital Content Creator at [@cloudvesna](https://www.instagram.com/cloudvesna/) 5k+ community 
 
+### Open Source Contribution
+
+- [Terrarium](https://github.com/terrariumcloud/terrarium) - An Open Source implementation of the Terraform registry
+
 ### Medium Articles 📰
 
 🎯 [Step-by-Step Guide: Running Kubernetes on AWS EC2 with Minikube](https://cloudvesna.com/step-by-step-guide-running-kubernetes-on-aws-ec2-with-minikube-3997d7aab6a4)
