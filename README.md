@@ -6,7 +6,7 @@
  
 ✍ Writer on [Medium](https://cloudvesna.com/) 
 
-⚡ Digital Content Creator at [@cloudvesna](https://www.instagram.com/cloudvesna/) 5k+ community 
+<!-- ⚡ Digital Content Creator at [@cloudvesna](https://www.instagram.com/cloudvesna/) 5k+ community -->
 
 ### Open Source Contribution
 
@@ -21,6 +21,7 @@
  <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
  <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+ <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black">
  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
  <img alt="Grafana" src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
  <img alt="Packer" src="https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF">
