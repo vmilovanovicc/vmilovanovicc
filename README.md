@@ -35,8 +35,6 @@
  <img alt="Jinja" src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black">
  <img alt="Codecov" src="https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white">
  <img alt="Hugo" src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo">
- <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
- <img alt="GoLand" src="https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white">
  <img alt="Shell" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
  <img alt="Confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white">
  <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
@@ -51,20 +49,8 @@
 
 🎯 [A Simple Way to Dockerize a Python Flask App](https://cloudvesna.com/a-simple-way-to-dockerize-a-python-flask-app-e94fe47249d7)
 
+🎯 [Developing and testing REST APIs with Golang, Gin and GitHub Actions ](https://cloudvesna.com/developing-and-testing-rest-apis-with-golang-gin-and-github-actions-75996b3e264a)
+
 
 ### How to reach me 📫
 [LinkedIn](https://www.linkedin.com/in/vesna-milovanovic/)
-<!--
-**vmilovanovicc/vmilovanovicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
