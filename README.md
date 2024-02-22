@@ -6,7 +6,7 @@
  
 ✍ Writer on [Medium](https://cloudvesna.com/) 
 
-<!-- ⚡ Digital Content Creator at [@cloudvesna](https://www.instagram.com/cloudvesna/) 5k+ community -->
+<!-- ⚡ Digital Content Creator at [@cloudvesna](https://www.instagram.com/cloudvesna/) 6k+ community -->
 
 ### Open Source Contribution
 
@@ -30,7 +30,6 @@
  <img alt="Ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white">
  <img alt="CloudBees" src="https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge">
  <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
- <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white">
  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
  <img alt="Jinja" src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black">
  <img alt="Codecov" src="https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white">
@@ -50,6 +49,9 @@
 🎯 [A Simple Way to Dockerize a Python Flask App](https://cloudvesna.com/a-simple-way-to-dockerize-a-python-flask-app-e94fe47249d7)
 
 🎯 [Developing and testing REST APIs with Golang, Gin and GitHub Actions ](https://cloudvesna.com/developing-and-testing-rest-apis-with-golang-gin-and-github-actions-75996b3e264a)
+
+🎯 [Automating backups for AWS DynamoDB using AWS Backup and Pulumi](https://cloudvesna.com/automating-backups-for-aws-dynamodb-using-aws-backup-and-pulumi-37f65e31233b)
+
 
 
 ### How to reach me 📫
