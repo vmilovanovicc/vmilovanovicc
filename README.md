@@ -52,6 +52,8 @@
 
 🎯 [Automating backups for AWS DynamoDB using AWS Backup and Pulumi](https://cloudvesna.com/automating-backups-for-aws-dynamodb-using-aws-backup-and-pulumi-37f65e31233b)
 
+🎯 [How to discover unused AWS resources](https://cloudvesna.com/how-to-discover-unused-aws-resources-038ed7d341ee)
+
 
 
 ### How to reach me 📫
