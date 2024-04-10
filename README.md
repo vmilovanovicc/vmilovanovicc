@@ -15,7 +15,6 @@
 <p>
  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
- <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
  <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
  <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
@@ -48,11 +47,13 @@
 
 🎯 [A Simple Way to Dockerize a Python Flask App](https://cloudvesna.com/a-simple-way-to-dockerize-a-python-flask-app-e94fe47249d7)
 
-🎯 [Developing and testing REST APIs with Golang, Gin and GitHub Actions ](https://cloudvesna.com/developing-and-testing-rest-apis-with-golang-gin-and-github-actions-75996b3e264a)
+🎯 [Developing and testing REST APIs with Golang, Gin and GitHub Actions](https://cloudvesna.com/developing-and-testing-rest-apis-with-golang-gin-and-github-actions-75996b3e264a)
 
 🎯 [Automating backups for AWS DynamoDB using AWS Backup and Pulumi](https://cloudvesna.com/automating-backups-for-aws-dynamodb-using-aws-backup-and-pulumi-37f65e31233b)
 
 🎯 [How to discover unused AWS resources](https://cloudvesna.com/how-to-discover-unused-aws-resources-038ed7d341ee)
+
+🎯 [Publishing SNS notifications to a Firehose Delivery Stream](https://cloudvesna.com/publishing-sns-notifications-to-a-firehose-delivery-stream-a0afdd45d47c)
 
 
 
