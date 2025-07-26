@@ -4,7 +4,7 @@
  
  🔖 AWS, Microsoft, Hashicorp [Certified](https://www.credly.com/users/vesna-milovanovic/badges) 
  
-✍ Writer on [Medium](https://cloudvesna.com/) & [Hashnode](https://cloudvesna.hashnode.dev)
+✍ Writer on [Medium](https://cloudvesna.com/)
 
 <!-- ⚡ Digital Content Creator at [@cloudvesna](https://www.instagram.com/cloudvesna/) 6k+ community -->
 
